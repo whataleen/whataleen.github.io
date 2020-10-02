@@ -49,7 +49,7 @@ a {
 p {
     font-size: 16px;
 }
-
+/* || Main page and focus */
 .hero {
     height: 800px;
     width: 100%;
@@ -58,6 +58,7 @@ p {
     background-size: cover;
     background-position: center;
 }
+/* || Right icon images floaters */
 
 .float-left {
     float: left;
@@ -115,6 +116,7 @@ p {
     margin-bottom: 10px;
     text-align: center;
 }
+
 
 .benefit-lead img {
     display: block;
@@ -187,6 +189,7 @@ p {
     margin-bottom: 20px;
     font-size: 36px;
 }
+/* || Bottom page */
 
 .footer {
     padding: 30px;
